@@ -21,7 +21,7 @@ Projeto de inicio de curso, nunca realize essas configurações para fins de pro
 
 4.  Configure a máquina virtual conforme ilustração em (/images/ProjetioDio0301 e /images/ProjetoDio0302) e após clique em "revisar + criar"  
     Importante – Ao escolher "Opções de disponibilidade" escolha "Não existem redundâncias de infraestrutura necessárias"  
-    [Configuração 1](./images/ProjetioDio0301.png)  
+    [Configuração 1](./images/ProjetoDio0301.png)  
     [Configuração 2](./images/ProjetoDio0302.png)
 
 5.  Aguarde a revisão, na tela de revisão você já pode consultar o valor estimado de gasto por hora da máquina e também rolar a página para conferir uma visão geral das opções escolhidas. Se tudo estiver OK, clique em criar.  
