@@ -5,6 +5,7 @@ Segundo projeto do curso XP Inc. - Cloud com Inteligência Artificial, onde é m
 ** LEMBRETE **
 
 Projeto de inicio de curso, nunca realize essas configurações para fins de produção.
+Caso as imagens fiquem quebradas utilize "Ctrl + F5" ou "⌘+Shift+R"
 
 
 ---
