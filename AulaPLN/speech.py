@@ -24,14 +24,16 @@ def ouvir_microfone():
       if 'navegador' in frase:
         os.system('start chrome.exe')
         return False
-      elif "Excel" in frase:
+      elif "excel" in frase:
         os.system('start excel.exe')
         return False
-      elif "Abrir pastas Windows":
-        os.system(' start explorer.exe')
-      elif 'Fechar':
+      elif "steam":
+        os.system('start K:\Steam\steam.exe')
+        return False
+      elif 'fechar':
         os.system('exit')
         return True
+      
       
       #retorna a frase pronunciada
       print('Voce disse: ' + frase)

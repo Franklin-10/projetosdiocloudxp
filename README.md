@@ -14,3 +14,6 @@ Projeto02 - https://github.com/Franklin-10/projetosdiocloudxp/tree/main/Projeto0
   
 AulaPLN - https://github.com/Franklin-10/projetosdiocloudxp/tree/main/AulaPLN
   Desenvolvimento de código para reconhecimento de fala possibilitando a abertura de programas através de condição.
+  
+AulaInsightIA - https://github.com/Franklin-10/projetosdiocloudxp/tree/main/AulaInsightIA
+  Desenvolvimento de planilha de Insight para a empresa Meganium(Ficticia) onde com o estudo de engenharia foi criados resultados para identificar padrões comerciais, otimizar operações logísticas e suportar decisões estratégicas baseadas em dados.
