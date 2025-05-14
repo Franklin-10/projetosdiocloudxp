@@ -27,7 +27,7 @@ Contém análises exploratórias e operacionais com foco em:
   - Identificação dos produtos de maior saída por país para ajudar no posicionamento de estoque e campanhas regionais.
 
 📁 Caminho: `insights/insights_estilizados_com_analises.xlsx`  
-🔗 [Download insights_estilizados_com_analises.xlsx](sandbox:/mnt/data/insights_estilizados_com_analises.xlsx)
+
 
 > **Valor agregado:** Esses insights ajudam a empresa a tomar decisões operacionais e de marketing mais informadas, ajustando estratégias comerciais conforme o perfil do público e a região.
 
@@ -53,7 +53,7 @@ Contém análises estatísticas e preditivas aplicadas aos dados históricos:
   - Estima o valor de longo prazo dos clientes com base em comportamento passado. Indica quais clientes devem ser priorizados em estratégias de retenção.
 
 📁 Caminho: `insights/insights_avancados_estilizados.xlsx`  
-🔗 [Download insights_avancados_estilizados.xlsx](sandbox:/mnt/data/insights_avancados_estilizados.xlsx)
+
 
 > **Valor agregado:** Essas análises fornecem inteligência de negócio preditiva e segmentada, ajudando a empresa a maximizar o retorno sobre investimento em marketing e logística.
 
@@ -69,7 +69,7 @@ Este arquivo documenta os **prompts mais relevantes utilizados durante o projeto
 - Seu papel na construção do insight ou estrutura do arquivo.
 
 📁 Caminho: `prompts/chatgpt_prompts_engineering.txt`  
-🔗 [Download chatgpt_prompts_engineering.txt](sandbox:/mnt/data/estudo_engenharia_prompt_meganium.txt)
+
 
 > **Valor agregado:** Demonstra como uma boa formulação de prompt pode influenciar diretamente a qualidade, profundidade e aplicabilidade dos resultados gerados por IA.
 
