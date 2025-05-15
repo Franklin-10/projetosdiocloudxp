@@ -17,3 +17,6 @@ AulaPLN - https://github.com/Franklin-10/projetosdiocloudxp/tree/main/AulaPLN
   
 AulaInsightIA - https://github.com/Franklin-10/projetosdiocloudxp/tree/main/AulaInsightIA
   Desenvolvimento de planilha de Insight para a empresa Meganium(Ficticia) onde com o estudo de engenharia foi criados resultados para identificar padrões comerciais, otimizar operações logísticas e suportar decisões estratégicas baseadas em dados.
+  
+AulaValidadorGitCopilot - https://github.com/Franklin-10/projetosdiocloudxp/tree/main/AulaValidadorGitCopilot  
+  Desenvolvimento de um validador de código utilizando GitHub Copilot, com foco em boas práticas e eficiência no desenvolvimento. Este projeto explora como o Copilot pode ser integrado ao fluxo de trabalho para melhorar a qualidade do código e acelerar o processo de desenvolvimento.
