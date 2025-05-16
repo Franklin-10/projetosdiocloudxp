@@ -33,3 +33,7 @@ Projeto Transcrição de Fala e Análise de Sentimento de opiniões IA - https:/
 Projeto IA Search - https://github.com/Franklin-10/projetosdiocloudxp/tree/main/ProjetoIASearch
 
   Criação de projeto utilizando as ferramentas de busca e cognição do Azure, criação de uma conta de armazenamento e configuração de container, integração e demonstração de resultado do serviço de busca IA do Azure em um container de armazenamento.
+  
+Projeto Chat Filter - https://github.com/Franklin-10/projetosdiocloudxp/tree/main/ProjetoChatFilter
+
+  Criação de projeto de geração de texto baseado no modelo Phi-4 onde foi aplicado diversos tipos de filtro para controle de saída de texto que o modelo responde, sem filtro, com filtro inicial e customizado.
