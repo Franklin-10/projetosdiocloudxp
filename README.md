@@ -29,3 +29,7 @@ AulaValidadorGitCopilot - https://github.com/Franklin-10/projetosdiocloudxp/tree
 Projeto Transcrição de Fala e Análise de Sentimento de opiniões IA - https://github.com/Franklin-10/projetosdiocloudxp/tree/main/ProjetoAILanguageAzure 
 
   Criação de projeto utilizando as ferramentas de Transcrição de Fala e Análise de sentimentos do Azure IA, onde foi mostrado como a IA transcreve áudios de vários idiomas e como a IA analisa o sentimento humano através do texto.
+  
+Projeto IA Search - https://github.com/Franklin-10/projetosdiocloudxp/tree/main/ProjetoIASearch
+
+  Criação de projeto utilizando as ferramentas de busca e cognição do Azure, criação de uma conta de armazenamento e configuração de container, integração e demonstração de resultado do serviço de busca IA do Azure em um container de armazenamento.
