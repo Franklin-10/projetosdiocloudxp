@@ -54,7 +54,6 @@ Caso as imagens fiquem quebradas utilize "Ctrl + F5" ou "⌘+Shift+R"
 
 11.  Clicamos em seguinte e vamos para a aba de "Add cognitive skills", selecione conforme fotos abaixo, selecione novamente seu container no "Selecione uma ligação existente"
 ![Cognitive skills](./images/15-abacognitiveskills.png)
-![Cognitive skills](./images/1502-abacognitiveskills.png)
 
 12.  Clique em seguinte e vamos para aba "Customize target index", selecione conforme fotos
 
